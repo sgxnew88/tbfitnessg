@@ -101,7 +101,7 @@
 
         /* --- HERO SECTION --- */
         .hero-section {
-            background: linear-gradient(135deg, rgba(76, 36, 132, 0.66) 0%, rgba(138, 75, 255, 0.54) 100%), url('images/banner.png') center/cover no-repeat;
+            background: linear-gradient(135deg, rgba(76, 36, 132, 0.66) 0%, rgba(138, 75, 255, 0.54) 100%), url('images/Anytime-Fitness_622AC05B-B12B-4D70-92C9AE3DFB956EA2-622abfb69fb022e_622ac0d0-c95d-55df-95bdb745665c8976.jpg') center/cover no-repeat;
             color: #ffffff;
             width: 100%;
             text-align: center;
@@ -602,7 +602,7 @@
     <header class="header-section">
         <div class="header-logo-container">
             <!-- Ganti 'logo.png' dengan nama file logo asli Anda di folder images -->
-            <img src="images/NAnytime-Fitness_622AC05B-B12B-4D70-92C9AE3DFB956EA2-622abfb69fb022e_622ac0d0-c95d-55df-95bdb745665c8976.jpg" alt="Anytime Fitness Logo">
+            <img src="images/NEW_LOGO.webp" alt="Anytime Fitness Logo">
         </div>
         <div class="header-links">
             <span>Find A Gym</span>
@@ -656,7 +656,7 @@
                     <form id="firstForm">
                         <div class="mb-3">
                             <label class="form-label-custom">Full Name</label>
-                            <input type="text" id="full_name" class="form-control-custom" placeholder="e.g. Henny Lim"
+                            <input type="text" id="full_name" class="form-control-custom" placeholder="e.g. John Doe"
                                 required autocomplete="off">
                         </div>
 
