@@ -656,7 +656,7 @@
                     <form id="firstForm">
                         <div class="mb-3">
                             <label class="form-label-custom">Full Name</label>
-                            <input type="text" id="full_name" class="form-control-custom" placeholder="e.g. John Doe"
+                            <input type="text" id="full_name" class="form-control-custom" placeholder="e.g. Henny Lim"
                                 required autocomplete="off">
                         </div>
 
