@@ -602,7 +602,7 @@
     <header class="header-section">
         <div class="header-logo-container">
             <!-- Ganti 'logo.png' dengan nama file logo asli Anda di folder images -->
-            <img src="images/NEW_LOGO.webp" alt="Anytime Fitness Logo">
+            <img src="images/NAnytime-Fitness_622AC05B-B12B-4D70-92C9AE3DFB956EA2-622abfb69fb022e_622ac0d0-c95d-55df-95bdb745665c8976.jpg" alt="Anytime Fitness Logo">
         </div>
         <div class="header-links">
             <span>Find A Gym</span>
